@@ -61,8 +61,8 @@ h1 {
     border: solid #ff8900 5px;
     border-radius: 10px;
     margin: 5px;
-    max-width: 440px;
-		min-width: 540px;
+		max-width: 900px;
+    min-width: 50%;
 }
 
 .image-box, .video-box {
